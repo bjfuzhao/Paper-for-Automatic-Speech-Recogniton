@@ -14,7 +14,12 @@ https://github.com/parlance/ctcdecode/tree/master/ctcdecode
 https://github.com/NVIDIA/OpenSeq2Seq   
 
 6. Facebook AI Research's Automatic Speech Recognition Toolkit 
-https://github.com/facebookresearch/wav2letter  
+https://github.com/facebookresearch/wav2letter   
+
+7. Chinese speech recognition    
+https://github.com/chenmingxiang110/Chinese-automatic-speech-recognition  
+
+8. 
 
 
 
