@@ -54,7 +54,11 @@ https://github.com/kaldi-asr/kaldi.
 18.基于卷积神经网络的语音识别声学模型的研究
 https://github.com/zw76859420/ASR_Syllable  
 
-19. 
+19. a real-time full-duplex speech recognition server
+https://github.com/jiahenghuang/chinese-asr-server  
+
+20. 
+
 
 
 
