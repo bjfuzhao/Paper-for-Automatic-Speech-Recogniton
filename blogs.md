@@ -15,7 +15,8 @@ https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/
 
 6. https://www.gitmemory.com/jiahenghuang
 
-
+7.https://audier.github.io/2018/09/11/chinese-speech-asrt/ 
+https://audier.github.io/2018/09/11/chinese-speech-asrt/
 
 
 
