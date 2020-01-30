@@ -16,7 +16,19 @@ https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/
 6. https://www.gitmemory.com/jiahenghuang
 
 7.https://audier.github.io/2018/09/11/chinese-speech-asrt/ 
-https://audier.github.io/2018/09/11/chinese-speech-asrt/
+
+8. 中文语音识别系统搭建流程笔记
+https://www.jianshu.com/p/b9b8aa64cbe1
+
+9. Python语音识别终极指南
+https://zhuanlan.zhihu.com/p/92604225
+
+10. react-speech-recognition
+https://www.npmjs.com/package/react-speech-recognition
+
+11. 【语音识别】从入门到精通
+https://yq.aliyun.com/articles/665231
+
 
 
 
