@@ -35,7 +35,8 @@ http://blog.githuber.cn/posts/1343
 13. 中文语音识别Demo实践  
 http://gongjili.work/blog/cnasr/
 
-14.
+14. fsmn
+https://vsooda.github.io/
 
 
 
