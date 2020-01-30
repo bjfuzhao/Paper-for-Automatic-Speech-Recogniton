@@ -7,7 +7,13 @@
 3. The Illustrated Transformer   
    https://jalammar.github.io/illustrated-transformer/
 
-4. 
+4. Online speech recognition with wav2letter@anywhere
+https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/  
+
+5. 
+
+
+
 
 
 
