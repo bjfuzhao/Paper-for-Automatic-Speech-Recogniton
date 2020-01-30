@@ -29,6 +29,14 @@ https://www.npmjs.com/package/react-speech-recognition
 11. 【语音识别】从入门到精通
 https://yq.aliyun.com/articles/665231
 
+12. Kaldi构建一个简单的英文数字串识别系统
+http://blog.githuber.cn/posts/1343 
+
+13. 中文语音识别Demo实践  
+http://gongjili.work/blog/cnasr/
+
+14.
+
 
 
 
