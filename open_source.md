@@ -60,7 +60,8 @@ https://github.com/jiahenghuang/chinese-asr-server
 20. VOSK Speech Recognition Toolkit
 https://github.com/alphacep/vosk  
 
-
+21. DFSMN
+https://github.com/alibaba/Alibaba-MIT-Speech
 
 
 
