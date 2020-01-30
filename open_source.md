@@ -10,5 +10,14 @@ https://github.com/mozilla/DeepSpeech
 4. CTCdecode c++ implementation
 https://github.com/parlance/ctcdecode/tree/master/ctcdecode  
 
-5. 
+5. Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP   
+https://github.com/NVIDIA/OpenSeq2Seq   
+
+6. Facebook AI Research's Automatic Speech Recognition Toolkit 
+https://github.com/facebookresearch/wav2letter  
+
+
+
+
+
 
