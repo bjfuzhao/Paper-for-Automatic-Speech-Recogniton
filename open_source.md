@@ -57,7 +57,11 @@ https://github.com/zw76859420/ASR_Syllable
 19. a real-time full-duplex speech recognition server
 https://github.com/jiahenghuang/chinese-asr-server  
 
-20. 
+20. VOSK Speech Recognition Toolkit
+https://github.com/alphacep/vosk  
+
+
+
 
 
 
