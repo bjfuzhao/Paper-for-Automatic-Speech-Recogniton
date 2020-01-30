@@ -10,7 +10,10 @@
 4. Online speech recognition with wav2letter@anywhere
 https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/  
 
-5. 
+5. DeepSpeech 0.6: Mozilla’s Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous
+https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/  
+
+6. https://www.gitmemory.com/jiahenghuang
 
 
 
