@@ -4,4 +4,7 @@ http://www.redhenlab.org/home/the-cognitive-core-research-topics-in-red-hen/the-
 2. 中文语音识别，高识别率预训练模型 Gated Convolutional Network
 https://github.com/libai3/masr
 
-3. 
+3. A TensorFlow implementation of Baidu's DeepSpeech architecture
+https://github.com/mozilla/DeepSpeech 
+
+4. 
