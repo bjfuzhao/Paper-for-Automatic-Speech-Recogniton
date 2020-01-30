@@ -7,4 +7,8 @@ https://github.com/libai3/masr
 3. A TensorFlow implementation of Baidu's DeepSpeech architecture
 https://github.com/mozilla/DeepSpeech 
 
-4. 
+4. CTCdecode c++ implementation
+https://github.com/parlance/ctcdecode/tree/master/ctcdecode  
+
+5. 
+
