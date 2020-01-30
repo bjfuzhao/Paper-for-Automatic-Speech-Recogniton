@@ -15,11 +15,49 @@ https://github.com/NVIDIA/OpenSeq2Seq
 
 6. Facebook AI Research's Automatic Speech Recognition Toolkit 
 https://github.com/facebookresearch/wav2letter   
+https://github.com/facebookresearch/wav2letter
 
 7. Chinese speech recognition    
 https://github.com/chenmingxiang110/Chinese-automatic-speech-recognition  
 
-8. 
+8. Automatic Speech Recognition for Speech-to-Text on Chinese  
+https://github.com/CynthiaSuwi/ASR-for-Chinese-Pipeline    
+https://cynthiasuwi.github.io//GSoC-Work-Submission/
+
+9. A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.   
+https://github.com/PaddlePaddle/DeepSpeech   
+
+10. Mandarin Chinese Speech Recognition Corpus (desktop) - place name (200 people)
+http://metashare.tilde.com/repository/browse/mandarin-chinese-speech-recognition-corpus-desktop-place-name-200-people/bccc4660de7611e2b1e400259011f6ead41daba355f943a9ab599efd78f13a35/
+
+11. A Chinese Deep Speech Recognition System 包括基于深度学习的声学模型和基于深度学习的语言模型   
+https://github.com/audier/DeepSpeechRecognition     
+
+12. Chinese Speech To Text Using Wavenet  
+https://github.com/liangstein/Chinese-speech-to-text   
+
+13. speech-aligner，是一个从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具。speech-aligner, is a tool that generate phoneme-level alignment between human speech and its transcription
+https://github.com/audier/speech-aligner    
+
+14. DaCiDian is an open-sourced chinese mandarin lexicon for automatic speech recognition(ASR) 
+https://github.com/aishell-foundation/DaCiDian
+
+15. A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统
+https://github.com/nl8590687/ASRT_SpeechRecognition   
+
+16. http://www.openslr.org
+
+17.Kaldi
+http://kaldi-asr.org/
+https://github.com/kaldi-asr/kaldi.
+
+18.基于卷积神经网络的语音识别声学模型的研究
+https://github.com/zw76859420/ASR_Syllable  
+
+19. 
+
+
+
 
 
 
