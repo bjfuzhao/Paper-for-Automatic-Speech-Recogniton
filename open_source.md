@@ -69,9 +69,10 @@ https://github.com/kaituoxu/Speech-Transformer
 22. A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework.
 https://github.com/kaituoxu/Listen-Attend-Spell
 
+23. Connectionist Temporal Classification (CTC) Automatic Speech Recognition 
+https://github.com/lingochamp/kaldi-ctc
 
-
-
+24. https://github.com/mdangschat/ctc-asr 
 
 
 
