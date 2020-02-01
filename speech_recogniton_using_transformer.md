@@ -37,6 +37,8 @@ https://arxiv.org/pdf/1910.10697.pdf
 13. Compressive Transformers for Long-Range Sequence Modelling
 https://openreview.net/forum?id=SylKikSYDH  
 
-
-
+14. Investigation of Transformer based Spelling Correction Model for CTC-based
+https://ucc.alicdn.com/download/Investigation%20of%20Transformer%20based%20Spelling%20Correction%20Model%20for%20CTC-based%20End-to-End%20Mandarin%20Speech%20Recognition.pdf?spm=a2c6h.12873639.0.0.7ccf47f5J9Ksys&file=Investigation%20of%20Transformer%20based%20Spelling%20Correction%20Model%20for%20CTC-based%20End-to-End%20Mandarin%20Speech%20Recognition.pdf
+https://developer.aliyun.com/article/718106
+https://arxiv.org/abs/1904.10045  
 
