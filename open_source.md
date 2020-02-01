@@ -63,6 +63,12 @@ https://github.com/alphacep/vosk
 21. DFSMN
 https://github.com/alibaba/Alibaba-MIT-Speech
 
+22. A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese.
+https://github.com/kaituoxu/Speech-Transformer
+
+22. A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework.
+https://github.com/kaituoxu/Listen-Attend-Spell
+
 
 
 
