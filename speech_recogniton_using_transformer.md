@@ -44,9 +44,16 @@ https://arxiv.org/abs/1904.10045
 
 15. https://zhuanlan.zhihu.com/p/83325384
 
+16.Speech-XLNet: Unsupervised Acoustic Model Pretraining For Self-Attention Networks 
+https://arxiv.org/abs/1910.10387
 
+17. spaCy meets Transformers: Fine-tune BERT, XLNet and GPT-2
+https://explosion.ai/blog/spacy-transformers
 
+18. 语音识别中的End2End模型: CTC, RNN-T与LAS
+https://zhuanlan.zhihu.com/p/62836549
 
+19. https://github.com/HawkAaron/E2E-ASR
 
 
 
