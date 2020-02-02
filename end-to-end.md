@@ -13,8 +13,8 @@ KenLM: Faster and Smaller Language Model Queries
 5. CTC Algorithm Explained Part 1：Training the Network（CTC算法详解之训练篇）
 https://xiaodu.io/ctc-explained/
 
-
-
+6. CTC Algorithm Explained Part 2：Decoding the Network（CTC算法详解之解码篇）
+https://xiaodu.io/ctc-explained-part2/
 
 
 
