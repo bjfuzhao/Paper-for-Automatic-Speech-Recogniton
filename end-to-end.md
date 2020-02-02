@@ -16,6 +16,19 @@ https://xiaodu.io/ctc-explained/
 6. CTC Algorithm Explained Part 2：Decoding the Network（CTC算法详解之解码篇）
 https://xiaodu.io/ctc-explained-part2/
 
+7. kaldi-ctc: CTC End-to-End ASR
+https://zhuanlan.zhihu.com/p/23177950
+
+8. Supervised Sequence Labelling with Recurrent Neural Networks
+http://www.cs.toronto.edu/~graves/preprint.pdf
+
+9.Joint CTC/attention decoding for end-to-end speech recognition
+https://acl-arc.comp.nus.edu.sg/~antho/P/P17/P17-1048.pdf
+
+
+
+
+
 
 
 
