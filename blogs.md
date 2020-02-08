@@ -42,6 +42,6 @@ https://vsooda.github.io/
 
 16. https://kelvin.mbioq.com/tensorflow-exercise-15-chinese-speech-recognition.html 
 
-
-
+17. https://github.com/syhw/wer_are_we
+Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
 
