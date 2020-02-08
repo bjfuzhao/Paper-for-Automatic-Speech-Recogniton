@@ -35,6 +35,23 @@ https://arxiv.org/pdf/1910.05453v1.pdf
 
 12. https://github.com/pytorch/fairseq
 
+13. A 2019 Guide for Automatic Speech Recognition
+https://heartbeat.fritz.ai/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c
 
+14. UNSUPERVISED DOMAIN ADAPTATION FOR ROBUST SPEECH RECOGNITION VIA VARIATIONAL AUTOENCODER-BASED DATA AUGMENTATION
+https://arxiv.org/pdf/1707.06265v2.pdf
 
+15. Learning representations of speech from the raw waveform
+https://tel.archives-ouvertes.fr/tel-02278616/document
 
+16. CYCLE-CONSISTENCY TRAINING FOR END-TO-END SPEECH RECOGNITION
+http://www.jonathanleroux.org/pdf/Hori2019ICASSP05cycle.pdf 
+
+17. Unsupervised Raw Waveform Representation Learning for ASR
+http://leap.ee.iisc.ac.in/navigation/publications/papers/Purvi_IS2019_raw_camera_ready.pdf  
+
+18. Unsupervised Phoneme and Word Discovery From Multiple Speakers Using Double Articulation Analyzer and Neural Network With Parametric Bias
+https://www.frontiersin.org/articles/10.3389/frobt.2019.00092/full  
+
+19. wav2letter++: The Fastest Open-source Speech Recognition System
+https://arxiv.org/abs/1812.07625  
