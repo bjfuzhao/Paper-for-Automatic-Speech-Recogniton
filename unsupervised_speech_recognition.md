@@ -55,3 +55,5 @@ https://www.frontiersin.org/articles/10.3389/frobt.2019.00092/full
 
 19. wav2letter++: The Fastest Open-source Speech Recognition System
 https://arxiv.org/abs/1812.07625  
+https://github.com/facebookresearch/wav2letter  
+
