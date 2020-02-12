@@ -22,8 +22,22 @@ https://arxiv.org/pdf/1605.02427.pdf
 8. Combining Statistical Signal Processing and Machine-Learning
 https://www.inf.uni-hamburg.de/en/inst/ab/sp/research/robustml.html
 
+9. Neuralogram: A Neural Network Based Representation for Understanding Audio Signals
+https://arxiv.org/pdf/1904.05073.pdf
 
+10. Discriminative frequency filter banks learning with neural networks
+https://link.springer.com/article/10.1186/s13636-018-0144-6 
 
+11. Audio Source Separation into the Wild
+https://hal.inria.fr/hal-01943375/document  
+
+12.Map and Relabel: Towards Almost-Zero Resource Speech Recognition
+http://www.apsipa.org/proceedings/2018/pdfs/0000591.pdf
+
+13. HOW DO DEEP CONVOLUTIONAL NEURAL NETWORKS LEARN FROM RAW AUDIO WAVEFORMS?
+https://openreview.net/pdf?id=S1Ow_e-Rb
+
+14. 
 
 
 
