@@ -57,3 +57,11 @@ https://www.frontiersin.org/articles/10.3389/frobt.2019.00092/full
 https://arxiv.org/abs/1812.07625  
 https://github.com/facebookresearch/wav2letter  
 
+20. Semi-supervised Sequence-to-sequence ASR using Unpaired Speech and Text
+https://arxiv.org/abs/1905.01152
+
+21. Self-Supervised Speech Recognition via Local Prior Matching
+https://openreview.net/forum?id=rJlDO64KPH
+
+
+
