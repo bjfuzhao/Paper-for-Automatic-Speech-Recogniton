@@ -1,3 +1,5 @@
+https://speechbrain.github.io/ 
+
 1. Unsupervised speech recognition through spike-timing-dependent plasticity in a convolutional spiking neural network
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204596
 
@@ -62,6 +64,71 @@ https://arxiv.org/abs/1905.01152
 
 21. Self-Supervised Speech Recognition via Local Prior Matching
 https://openreview.net/forum?id=rJlDO64KPH
+
+22. The Paradigm Shift of Self-Supervised Learning
+https://medium.com/intuitionmachine/the-paradigm-shift-of-self-supervised-learning-744a6819ce08  
+
+23. Self-Supervised Representation Learning
+https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html  
+
+24. Contrastive Self-Supervised Learning
+https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html  
+
+25. A critical analysis of self-supervision, or what we can learn from a single image 
+https://openreview.net/forum?id=B1esx6EYvr   
+
+26.Multi-task self-supervised learning for Robust Speech Recognition 
+https://arxiv.org/abs/2001.09239  
+
+27. Self-Supervised Speech Recognition via Local Prior Matching 
+https://openreview.net/forum?id=rJlDO64KPH  
+
+28. Facebook Just Open Sourced Some of its Recent Work in Self-Supervised Speech Recognition Systems. 
+https://towardsdatascience.com/facebook-just-open-sourced-some-of-its-recent-work-in-self-supervised-speech-recognition-systems-c5c143885a0d
+
+29. Visually Guided Self Supervised Learning of Speech Representations
+https://deepai.org/publication/visually-guided-self-supervised-learning-of-speech-representations
+
+30. Almost Unsupervised Text to Speech and Automatic Speech Recognition
+http://proceedings.mlr.press/v97/ren19a/ren19a.pdf  
+
+31. vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+https://ui.adsabs.harvard.edu/abs/2019arXiv191005453B/abstract 
+
+32. Problem Agnostic Speech Encoder
+https://github.com/santi-pdp/pase  
+
+33. ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations
+
+
+34. The unreasonable effectiveness of deep learning in artificial intelligence
+
+
+35. Scaling Up Online Speech Recognition Using ConvNets
+
+
+36. DATA TECHNIQUES FOR ONLINE END-TO-END SPEECH RECOGNITION
+
+
+37. SpeechBrain: A PyTorch-based Speech Toolkit.
+SpeechBrain: A PyTorch-based Speech Toolkit.
+https://www.reddit.com/r/MachineLearning/comments/d286fp/p_speechbrain_a_pytorchbased_speech_toolkit/
+
+38. Self-supervised learning and computer vision
+
+
+39. Using Self-Supervised Learning Can Improve Model
+
+
+
+
+
+
+
+
+
+
+
 
 
 
