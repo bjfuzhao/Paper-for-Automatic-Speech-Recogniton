@@ -37,7 +37,9 @@ http://www.apsipa.org/proceedings/2018/pdfs/0000591.pdf
 13. HOW DO DEEP CONVOLUTIONAL NEURAL NETWORKS LEARN FROM RAW AUDIO WAVEFORMS?
 https://openreview.net/pdf?id=S1Ow_e-Rb
 
-14. 
+14. TCNN: Temporal Convolutional Neural Network for Real-Time Speech Enhancement in the Time Domain
+https://ashutosh620.github.io/publication/2019-02-23-TCNN-4  
+
 
 
 
