@@ -136,6 +136,26 @@ https://www.eventbrite.sg/e/unsupervised-self-supervised-and-reinforcement-learn
 45. LEARNING PROBLEM-AGNOSTIC SPEECH REPRESENTATIONS FROM MULTIPLE SELF-SUPERVISED TASKS
 https://mila.quebec/en/publication/learning-problem-agnostic-speech-representations-from-multiple-self-supervised-tasks/ 
 
+46. 解读自监督学习(Self-Supervised Learning)几篇相关paper
+https://zhuanlan.zhihu.com/p/96748604  
+
+47. 自监督学习
+https://zhuanlan.zhihu.com/p/66063089  
+
+48. 人工智能的下半场，一定少不了自监督学习
+https://zhuanlan.zhihu.com/p/94385056  
+
+49.Beyond Supervised Deep Learning-
+https://zhuanlan.zhihu.com/p/34286453
+
+50.https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers#Speaker-Verification
+
+51. 用Masked Language Model搞事情 
+https://zhpmatrix.github.io/2019/11/05/mlm/
+
+
+
+
 
 
 
