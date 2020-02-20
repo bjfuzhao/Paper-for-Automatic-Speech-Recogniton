@@ -116,12 +116,25 @@ https://www.reddit.com/r/MachineLearning/comments/d286fp/p_speechbrain_a_pytorch
 
 38. Self-supervised learning and computer vision
 
-
 39. Using Self-Supervised Learning Can Improve Model
 
+40. Self-supervised learning and computer vision
+https://www.fast.ai/2020/01/13/self_supervised/  
 
+41. AAAI 2020: Unsupervised Deep Learning and AI that can reason
+https://towardsdatascience.com/aaai-2020-unsupervised-deep-learning-and-ai-that-can-reason-5b432a00504e  
 
+42. Self Supervised Learning
+https://towardsdatascience.com/tagged/self-supervised-learning  
 
+43. CS294-158-SP19 Deep Unsupervised Learning Spring 2019
+https://sites.google.com/view/berkeley-cs294-158-sp19/home  
+
+44. Unsupervised, Self-supervised and Reinforcement Learning Workshop (5 – 6 March 2020)
+https://www.eventbrite.sg/e/unsupervised-self-supervised-and-reinforcement-learning-workshop-5-6-march-2020-tickets-92339226111  
+
+45. LEARNING PROBLEM-AGNOSTIC SPEECH REPRESENTATIONS FROM MULTIPLE SELF-SUPERVISED TASKS
+https://mila.quebec/en/publication/learning-problem-agnostic-speech-representations-from-multiple-self-supervised-tasks/ 
 
 
 
