@@ -74,7 +74,11 @@ https://github.com/lingochamp/kaldi-ctc
 
 24. https://github.com/mdangschat/ctc-asr 
 
+25. Human Language Technology and Pattern Recognition Group, RWTH Aachen University
+https://github.com/rwth-i6
 
+26. automatic-speech-recognition 1.0.2
+https://pypi.org/project/automatic-speech-recognition/#description 
 
 
 
