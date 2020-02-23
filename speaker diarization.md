@@ -13,4 +13,17 @@ https://github.com/tyiannak/pyAudioAnalysis
 
 6. Self-supervised learning for audio-visual speaker diarization
 https://www.groundai.com/project/self-supervised-learning-for-audio-visual-speaker-diarization/
-https://arxiv.org/abs/2002.05314
+https://arxiv.org/abs/2002.05314  
+
+7. Improving speaker diarization for naturalistic child-adult conversational interactions using contextual information
+https://asa.scitation.org/doi/10.1121/10.0000736  
+
+8. SIDEKIT 1.3.6.5
+https://pypi.org/project/SIDEKIT/ 
+
+
+
+
+
+
+
