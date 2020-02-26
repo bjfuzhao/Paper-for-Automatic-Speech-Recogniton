@@ -1,3 +1,5 @@
+https://blog.csdn.net/AMDS123/article/details/73695560(speech recognition lists)
+
 RNN Architecture 
 1. Sequence to Sequence Learning with Neural Networks 
 https://arxiv.org/abs/1409.3215
