@@ -38,7 +38,9 @@ https://www.cnbeta.com/articles/tech/882425.htm
 
 14. https://speech.fit.vutbr.cz/publications 
 
+15. https://deepai.org/publication/pyannote-audio-neural-building-blocks-for-speaker-diarization
 
+16. 
 
 
 
