@@ -34,7 +34,9 @@ https://web.stanford.edu/class/cs224s/papers/maas_et_al_2017.pdf
 16. Practical Speech Recognition with HTK
 https://arxiv.org/ftp/arxiv/papers/1908/1908.02119.pdf
 
-
+17. Introduction to deep learning for speech and language processing
+https://www.phon.ucl.ac.uk/courses/pals0039/index.php
+https://github.com/mhuckvale/pals0039
 
 
 
