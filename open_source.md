@@ -80,6 +80,10 @@ https://github.com/rwth-i6
 26. automatic-speech-recognition 1.0.2
 https://pypi.org/project/automatic-speech-recognition/#description 
 
+27. https://github.com/mravanelli  
+
+28. https://github.com/iamyuanchung 
+
 
 
 
