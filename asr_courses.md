@@ -46,9 +46,12 @@ https://mycourses.aalto.fi/course/view.php?id=20940&section=1
 https://mycourses.aalto.fi/course/view.php?id=24701&section=1
 
 
-20. 
+20.Natural Language Processing S20
+11-411 for undergrads | 11-611 for grads
+http://demo.clab.cs.cmu.edu/NLP/
 
-
+21. Deep Learning for Human Language Processing (2020,Spring)
+http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html
 
 
 
