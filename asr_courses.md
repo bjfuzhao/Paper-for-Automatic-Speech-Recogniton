@@ -38,6 +38,24 @@ https://arxiv.org/ftp/arxiv/papers/1908/1908.02119.pdf
 https://www.phon.ucl.ac.uk/courses/pals0039/index.php
 https://github.com/mhuckvale/pals0039
 
+18. CSE 5525: Speech and Language Processing
+https://cocoxu.github.io/courses/5525_spring20.html 
+
+19. ELEC-E5521 - Speech and Language Processing Methods P, 21.01.2019-18.03.2019
+https://mycourses.aalto.fi/course/view.php?id=20940&section=1  
+https://mycourses.aalto.fi/course/view.php?id=24701&section=1
+
+
+20. 
+
+
+
+
+
+
+
+
+
 
 
 
