@@ -45,3 +45,4 @@ https://vsooda.github.io/
 17. https://github.com/syhw/wer_are_we
 Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
 
+18. https://mc.ai/curious-resources-volume-3/
