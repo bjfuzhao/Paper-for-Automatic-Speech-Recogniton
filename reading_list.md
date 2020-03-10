@@ -24,3 +24,14 @@ https://jalammar.github.io/illustrated-transformer/
 
 8. Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
 https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+Self-supervised learning
+
+9 Interspeech 2020 Special Session: New Trends in self-supervised speech processing (S3P)
+https://self-supervised-sp.github.io/Interspeech2020-Special-Session
+
+10.Contrastive Self-Supervised Learning
+https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html  
+
+11.
+
