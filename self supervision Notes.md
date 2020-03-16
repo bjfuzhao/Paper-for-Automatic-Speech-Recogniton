@@ -32,6 +32,6 @@ In other words, the goal is to learn useful representations from unlabels data b
 
 3. Deep InfoMax:
 
- 
+4. https://self-supervised-sp.github.io/Interspeech2020-Special-Session
 
 
