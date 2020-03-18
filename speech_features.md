@@ -9,7 +9,13 @@ http://yaafe.sourceforge.net/
 4. Audio
 https://aubio.org/
 
-5. http://www.eas.uccs.edu/~mwickert/ece4680/
+5. http://www.eas.uccs.edu/~mwickert/ece4680/ 
+
+6. https://github.com/astorfi/speechpy 
+https://github.com/astorfi/3D-convolutional-speaker-recognition 
+
+
+
 
 
 
