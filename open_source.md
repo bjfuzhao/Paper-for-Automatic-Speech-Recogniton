@@ -84,7 +84,13 @@ https://pypi.org/project/automatic-speech-recognition/#description
 
 28. https://github.com/iamyuanchung 
 
+29. https://github.com/sailist/ASRFrame 
 
+30. https://blog.csdn.net/chinatelecom08/article/details/82557715 
+
+31.https://github.com/nl8590687/ASRT_SpeechRecognition
+
+32. https://blog.ailemon.me/2018/08/29/asrt-a-chinese-speech-recognition-system/ 
 
 
 
