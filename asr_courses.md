@@ -53,7 +53,12 @@ http://demo.clab.cs.cmu.edu/NLP/
 21. Deep Learning for Human Language Processing (2020,Spring)
 http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html
 
+22. https://www.ctolib.com/mxer-awesome-speech.html
+语音相关资源
 
+23.https://antkillerfarm.github.io/speech/2018/04/16/speech.html 
+
+24. https://zhuanlan.zhihu.com/p/102365965 
 
 
 
