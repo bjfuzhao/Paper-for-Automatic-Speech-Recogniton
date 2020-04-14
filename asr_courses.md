@@ -60,11 +60,13 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html
 
 24. https://zhuanlan.zhihu.com/p/102365965 
 
+25. https://docs.microsoft.com/en-us/archive/blogs/dawate/intro-to-audio-programming-part-3-synthesizing-simple-wave-audio-using-c
 
+26 https://cas.tudelft.nl/Education/courses/in4182/index.php 
 
+27 https://ychai.uk/ASR-intro/ 
 
-
-
+28 https://cas.tudelft.nl/Education/courses/in4182/index.php
 
 
 
