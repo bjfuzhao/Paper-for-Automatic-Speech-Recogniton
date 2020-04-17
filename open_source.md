@@ -97,3 +97,9 @@ https://pypi.org/project/automatic-speech-recognition/#description
 34. http://www.cs.columbia.edu/~julia/courses/CS6998-2019/syllabus19.html 
 
 35. https://github.com/ZhengkunTian 
+
+36. https://github.com/hirofumi0810?tab=repositories 
+
+
+
+
