@@ -68,5 +68,5 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html
 
 28 https://cas.tudelft.nl/Education/courses/in4182/index.php
 
-
+29 http://www.cs.columbia.edu/~julia/courses/CS6998-2019/syllabus19.html
 
