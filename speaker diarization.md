@@ -40,7 +40,82 @@ https://www.cnbeta.com/articles/tech/882425.htm
 
 15. https://deepai.org/publication/pyannote-audio-neural-building-blocks-for-speaker-diarization
 
-16. 
+16. http://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition.html  说话人识别数据集
+https://competitions.codalab.org/competitions/20200
+
+https://www.nist.gov/itl/iad/mig/nist-2019-speaker-recognition-evaluation  
+NIST 2019 Speaker Recognition Evaluation
+
+
+
+
+
+17. https://voicebot.ai/2020/02/06/apple-researchers-are-improving-voice-wake-word-detection-and-speaker-identification/
+
+18. https://paperswithcode.com/task/speaker-recognition/codeless   
+
+19. Speaker Recognition for Multi-speaker Conversations Using X-vectors 
+https://ieeexplore.ieee.org/document/8683760
+
+20.https://www.g2.com/products/microsoft-speaker-recognition-api/reviews
+
+21. SPEECH2PHONE: A MULTILINGUAL AND TEXT INDEPENDENT
+https://arxiv.org/pdf/2002.11213.pdf  
+
+22. https://dl.acm.org/doi/10.1145/3336191.3371802
+Automatic Speaker Recognition with Limited Data
+
+23. Text dependant speaker recognition using MFCC, LPC and DWT
+
+24. https://thesai.org/Downloads/Volume10No3/Paper_42-Speaker_Identification_based_on_Hybrid_Feature.pdf
+
+25. https://www.speechtechmag.com/Categories/Speaker_Identification_and_Authentication_561.aspx 
+
+26. https://www.temi.com/  
+
+27. Speaker Identification Integrated Project 
+https://www.interpol.int/Who-we-are/Legal-framework/Information-communications-and-technology-ICT-law-projects/Speaker-Identification-Integrated-Project-SIIP
+
+28. End-to-end Recurrent Denoising Autoencoder Embeddings for Speaker Identification 
+https://arxiv.org/abs/2003.07688
+
+29. A deep learning approach for speaker recognition
+https://link.springer.com/article/10.1007/s10772-019-09665-y
+
+30. End-to-end Recurrent Denoising Autoencoder Embeddings for Speaker Identification
+https://arxiv.org/abs/2003.07688
+
+31. Extract xvector and ivector under kaldi
+https://laptrinhx.com/extract-xvector-and-ivector-under-kaldi-3641754071/
+
+32. https://paperswithcode.com/task/speaker-verification/codeless   
+
+33. https://github.com/hsn-zeinali/x-vector-kaldi-tf
+
+34. https://github.com/kaldi-asr/kaldi/blob/master/egs/callhome_diarization/v1/diarization/nnet3/xvector/extract_xvectors.sh
+
+35. https://pypi.org/project/kaldiio/
+
+36. http://article.lujishu.net/viewarticle/1281876601170
+
+37. Speech Recognition — Kaldi
+https://medium.com/@jonathan_hui/speech-recognition-kaldi-35fec0320496
+
+38. https://github.com/kaldi-asr/kaldi/blob/master/egs/callhome_diarization/v1/diarization/nnet3/xvector/extract_xvectors.sh
+
+39. https://blog.csdn.net/weixin_43056919/article/details/87480205
+kaldi中的xvector训练(aisell v1)
+
+40. 声纹识别之X-vector
+https://blog.csdn.net/u011930705/article/details/85340905
+
+41. Speaker Diarization with Kaldi
+https://towardsdatascience.com/speaker-diarization-with-kaldi-e30301b05cc8
+
+
+
+
+
 
 
 
