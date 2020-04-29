@@ -102,4 +102,7 @@ https://pypi.org/project/automatic-speech-recognition/#description
 
 37. https://github.com/786440445/ASR-with-DFCNN-and-Transformer/tree/master/src 
 
+38. https://github.com/mpariente/asteroid  
+(=语音分离）
+
 
