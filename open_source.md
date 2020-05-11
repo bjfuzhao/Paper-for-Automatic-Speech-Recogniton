@@ -112,3 +112,5 @@ https://pypi.org/project/automatic-speech-recognition/#description
 41 https://www.reddit.com/r/speechtech/comments/f1nmq4/200202562_transformer_transducer_a_streamable/
 
 42https://github.com/allenai/allennlp
+
+43.https://huggingface.co/
