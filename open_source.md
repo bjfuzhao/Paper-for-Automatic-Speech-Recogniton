@@ -114,3 +114,5 @@ https://pypi.org/project/automatic-speech-recognition/#description
 42https://github.com/allenai/allennlp
 
 43.https://huggingface.co/
+
+44, https://github.com/tensorflow/tensor2tensor/issues/1121
