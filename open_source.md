@@ -106,3 +106,5 @@ https://pypi.org/project/automatic-speech-recognition/#description
 (=语音分离）
 
 39 https://github.com/huggingface
+
+40. https://desh2608.github.io/2020-01-08-transformer-asr/
